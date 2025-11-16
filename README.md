@@ -1,13 +1,27 @@
 # GameStick Assets
-Assets like "forwarders" (APK launcher for actual GameStick games on OUYA), images and metadata from Playjam GameStick games. Images have been enhanced and sharpened. OUYA icons are PNG 8 Bit colors, screenshots are JPG 16 Bit colors.
 
-These files are intended for use in the [GameStick Fans project](https://codeberg.org/gamestick-fans) and the [ouya-game-data project](https://github.com/ouya-saviors/ouya-game-data)
+> Forwarders, cover images and metadata for PlayJam **GameStick** games, prepared for use on **OUYA** and modern GameStick-based systems.
 
-## Currently in testing
+This repository contains curated assets from original PlayJam GameStick releases, including:
+
+- **Forwarder APKs**  
+  Small launcher apps that forward to the *original* GameStick game APKs (for use on OUYA and compatible Android devices).
+
+- **Game artwork**  
+  Enhanced and sharpened PNG icons and JPG screenshots based on the original GameStick store material.  
+  - OUYA icons: **PNG, 8-bit color**  
+  - Screenshots: **JPG, 16-bit color**
+
+- **Game metadata**  
+  Cleaned-up titles and meta information that can be reused in custom stores, launchers or databases.
+
+These files are primarily maintained for use in the the [GameStick Fans project](https://codeberg.org/gamestick-fans) and the [OUYA game data](https://github.com/ouya-saviors/ouya-game-data) repository.
+
+# Currently in testing
 
 none
 
-## Overview
+# Overview
 
 <details>
 <summary> ✅ Games with launcher</summary>
